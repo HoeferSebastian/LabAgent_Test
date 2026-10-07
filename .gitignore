@@ -1,0 +1,3 @@
+# Lokale Log- und Ausgabedateien des Git Credential Managers
+gcm_login_out.txt
+gcm_trace.log

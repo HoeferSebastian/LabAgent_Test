@@ -1,7 +1,13 @@
-# LabAgent_Test
+```text
+█      ███  ████   ███   ████ █████ █   █ █████ 
+█     █   █ █   █ █   █ █     █     ██  █   █   
+█     █████ ████  █████ █  ██ ████  █ █ █   █   
+█     █   █ █   █ █   █ █   █ █     █  ██   █   
+█████ █   █ ████  █   █  ███  █████ █   █   █   
+```
 
-Test-Repository für LabAgent - Assistenzsystem für ein Elektroniklabor
-(Messgeräte-Ansteuerung, Messabläufe, Simulation, Dokumentation).
+*Test-Repository für LabAgent - Assistenzsystem für ein Elektroniklabor
+(Messgeräte-Ansteuerung, Messabläufe, Simulation, Dokumentation).*
 
 ## Inhalt
 

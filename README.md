@@ -9,6 +9,12 @@
 *Test-Repository für LabAgent - Assistenzsystem für ein Elektroniklabor
 (Messgeräte-Ansteuerung, Messabläufe, Simulation, Dokumentation).*
 
+## Beispiel
+
+```python
+print("Hello, World!")
+```
+
 ## Inhalt
 
 - `README.md` - diese Datei

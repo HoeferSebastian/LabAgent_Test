@@ -1,0 +1,34 @@
+{
+  "id": "ac-ddbc4f45",
+  "name": "pong-headless",
+  "version": 5,
+  "status": "Freigegeben",
+  "classifier": "Tool",
+  "origin": {
+    "kind": "Agent",
+    "session": 537,
+    "model": null
+  },
+  "description": "Headless-Pong-Simulation in Python mit ASCII-Rendering und Statistik-Ausgabe.",
+  "purpose": "Ein vollstaendiges Pong-Spiel ohne Display in der Sandbox laufen lassen: Physik mit Schlaeger-/Ballkollision, KI-Gegner, Punktzaehlung, ASCII-Frames und Statistik als out/result.json.",
+  "entrypoint": "main.py",
+  "requirements": [],
+  "limits": {
+    "timeoutSeconds": 120,
+    "memoryMb": 256,
+    "cpus": 1,
+    "maxProcesses": 64,
+    "diskMb": 256,
+    "outputKb": 256
+  },
+  "network": "none",
+  "tags": ["spiel", "pong", "simulation", "ascii", "python"],
+  "files": [
+    {
+      "path": "main.py",
+      "sizeBytes": 10965,
+      "sha256": "4471ffec70432b0d2cf258f2d5f0141a94601fc5591ae79638fb9168e71f967b"
+    }
+  ],
+  "note": "Abbild des AppContainers zu Dokumentations-/Versionszwecken. Der AppContainer selbst liegt im LabAgent-Store (appcontainers.db), nicht im Git-Repository; wiederherstellbar ueber appcontainer_create/-update mit main.py."
+}
